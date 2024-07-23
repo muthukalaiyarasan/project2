@@ -1,0 +1,25 @@
+.a a{
+	color:black;
+}
+
+.a .col-2:hover {
+	color:orange;
+}
+.col-2:hover a{
+	color:orange;
+}
+
+ul li{
+	list-style:none;
+    font-size:15px;
+}
+
+li button{
+	border:none;
+	background-color:white;
+	color:gray;
+}
+
+li:hover button{
+	color:orange;
+}
